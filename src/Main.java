@@ -14,8 +14,6 @@ public class Main {
         //problem number two
         ArrayList<T> arrayListString = (ArrayList<T>) arrayToArrayList(stringArr);
         ArrayList<T> arrayListInteger = (ArrayList<T>) arrayToArrayList(intArr);
-        System.out.println(arrayListString.get(0));
-        System.out.println(arrayListInteger.get(0));
 
     }
 
